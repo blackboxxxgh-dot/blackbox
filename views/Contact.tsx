@@ -263,7 +263,7 @@ export const Contact: React.FC = () => {
               </div>
               <div>
                 <h4 className={`font-bold text-[13px] mb-0.5 ${isLight ? 'text-black' : 'text-white'}`}>Store Location</h4>
-                <p className={`text-[12px] ${isLight ? 'text-black/60' : 'text-white/60'}`}>Guess Hostel, KNUST</p>
+                <p className={`text-[12px] ${isLight ? 'text-black/60' : 'text-white/60'}`}>Brunei, KNUST</p>
               </div>
             </div>
 
